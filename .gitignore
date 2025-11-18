@@ -31,3 +31,6 @@ Thumbs.db
 # PDF files (large)
 *.pdf
 
+# Gitignore file
+.gitignore
+
